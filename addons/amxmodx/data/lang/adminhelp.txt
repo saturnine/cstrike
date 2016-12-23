@@ -64,11 +64,11 @@ TIME_INFO_2 = Ingen tidsgraense. Naeste bane: %s
 [pl]
 HELP_COMS = AMX Mod X pomoc: Komendy
 HELP_ENTRIES = Wpisy %d - %d z %d
-HELP_USE_MORE = Uzyj 'amx_help %d' aby dowiedziec sie wiecej
+HELP_USE_MORE = Uzyj 'amx_help %d' aby wyswietlic wiecej
 HELP_USE_BEGIN = Uzyj 'amx_help 1' aby dojsc do poczatku
 TYPE_HELP = Wpisz 'amx_help' w konsoli aby uzyskac liste komend
 TIME_INFO_1 = Pozostaly czas: %d:%02d min. Nastepna mapa: %s
-TIME_INFO_2 = Bez limitu czasu. Nastepna mapa: %s
+TIME_INFO_2 = Brak limitu czasu. Nastepna mapa: %s
 
 [bp]
 HELP_COMS = Ajuda do AMX Mod X: Comandos
@@ -114,15 +114,6 @@ HELP_USE_BEGIN = Kirjoita 'amx_help 1' aloittaaksesi
 TYPE_HELP = Kirjoita 'amx_help' konsoliin nahdaksesi komennot
 TIME_INFO_1 = Aikaa jaljella: %d:%02d minuuttia. Seuraava mappi: %s
 TIME_INFO_2 = Ei aikarajaa. Seuraava mappi: %s
-
-[ls]
-HELP_COMS = 4MXTR3M3 M0d XTR3M3 |-|3l|>: |200t C0mm4ndz
-HELP_ENTRIES = 3nt|2i3z %d - %d 0v %d
-HELP_USE_MORE = uzi 'amx_help %d' f0r m0r3 b4$3
-HELP_USE_BEGIN = uzi 'amx_help 1' f0r b3g!n h4x0rin'
-TYPE_HELP = uzi 'amx_help' t4 s33 r00tz
-TIME_INFO_1 = N0t T!m3 3nu77: %d:%02d min. N3x\ M4|>: %s
-TIME_INFO_2 = T!m3 i$ r3l4t!v3 t0 j00r |200t.  N3x\ M4|>: %s
 
 [bg]
 HELP_COMS = AMX Mod X Help: Comandi
@@ -177,3 +168,39 @@ HELP_USE_BEGIN = Napisi 'amx_help 1' za od pocetok
 TYPE_HELP = Napisi 'amx_help' vo konzolata za da gi vidis dozvolenite komandi
 TIME_INFO_1 = Preostanato Vreme: %d:%02d min. Sledna Mapa: %s
 TIME_INFO_2 = Nema vremensko ogranicuvanje. Sledna Mapa: %s
+
+[hr]
+HELP_COMS = AMX Mod X Pomoc: Naredbe
+HELP_ENTRIES = Vrijednosti %d - %d od %d
+HELP_USE_MORE = Koristi 'amx_help %d' za jos naredbi
+HELP_USE_BEGIN = Koristi 'amx_help 1' za pocetak
+TYPE_HELP = Ukucajte 'amx_help' u konzoli da bi ste vidjeli moguce naredbe
+TIME_INFO_1 = Preostalo Vrijeme: %d:%02d min. Sljedeca Mapa: %s
+TIME_INFO_2 = Nema vremenskog ogranicenja. Sljedeca Mapa: %s
+
+[bs]
+HELP_COMS = AMX Mod X Pomoc: Komande
+HELP_ENTRIES = Vrijednosti %d - %d od %d
+HELP_USE_MORE = Koristi 'amx_help %d' za jos komandi
+HELP_USE_BEGIN = Koristi 'amx_help 1' za pocetak
+TYPE_HELP = Ukucajte 'amx_help' u konzoli da bi ste vidjeli moguce komande
+TIME_INFO_1 = Preostalo Vrijeme: %d:%02d min. Slijedeca Mapa: %s
+TIME_INFO_2 = Nema vremenskog ogranicenja. Slijedeca Mapa: %s
+
+[ru]
+HELP_COMS = AMX Mod X Помощь: Команды
+HELP_ENTRIES = Список доступных команд с %d по %d. Всего команд - %d
+HELP_USE_MORE = Напишите 'amx_help %d" для продолжения
+HELP_USE_BEGIN = Напишите 'amx_help 1' для просмотра с начала
+TYPE_HELP = Напишите в консоле 'amx_help' для просмотра доступных команд
+TIME_INFO_1 = До смены карты осталось: %d:%02d мин. Следующая карта: %s
+TIME_INFO_2 = Ограничения по времени нет. Следующая карта: %s
+
+[cn]
+HELP_COMS = AMX Mod X 帮助: 命令
+HELP_ENTRIES = 目前第 %d 条 - %d 条,共 %d 条
+HELP_USE_MORE = 使用 'amx_help %d' 获取更多
+HELP_USE_BEGIN = 使用 'amx_help 1' 返回首页
+TYPE_HELP = 在控制台输入 'amx_help' 查看有效的命令
+TIME_INFO_1 = 剩余时间: %d:%02d 分钏. 下一张地图为: %s
+TIME_INFO_2 = 无时间限制. 下一张地图为: %s
