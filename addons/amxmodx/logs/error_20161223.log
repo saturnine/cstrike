@@ -1,0 +1,14 @@
+L 12/23/2016 - 03:01:07: Start of error session.
+L 12/23/2016 - 03:01:07: Info (map "(null)") (file "addons/amxmodx/logs/error_20161223.log")
+L 12/23/2016 - 03:01:07: Error parsing gameconfig file "cstrike/addons/amxmodx/data/gamedata/common.games.txt":
+L 12/23/2016 - 03:01:07: Error 1 on line 0, col 0: Stream failed to open
+L 12/23/2016 - 03:01:07: Start of error session.
+L 12/23/2016 - 03:01:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20161223.log")
+L 12/23/2016 - 03:01:07: [AMXX] Plugins list not found (file "addons/amxmodx/configs/plugins.ini")
+L 12/23/2016 - 03:03:07: Start of error session.
+L 12/23/2016 - 03:03:07: Info (map "(null)") (file "addons/amxmodx/logs/error_20161223.log")
+L 12/23/2016 - 03:03:07: Error parsing gameconfig file "cstrike/addons/amxmodx/data/gamedata/common.games.txt":
+L 12/23/2016 - 03:03:07: Error 1 on line 0, col 0: Stream failed to open
+L 12/23/2016 - 03:03:07: Start of error session.
+L 12/23/2016 - 03:03:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20161223.log")
+L 12/23/2016 - 03:03:07: [AMXX] Plugins list not found (file "addons/amxmodx/configs/plugins.ini")
